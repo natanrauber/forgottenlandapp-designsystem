@@ -1,0 +1,21 @@
+name: forgottenlandapp_designsystem
+description: Forgotten Land App Design System
+version: 25.10.01+1
+publish_to: none
+
+environment:
+  sdk: 3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dropdown_search: ^5.0.6
+  flutter_svg: ^2.2.0
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^5.1.1
+
+flutter:
